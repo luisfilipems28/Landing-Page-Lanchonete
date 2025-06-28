@@ -1,4 +1,4 @@
 {
-    "terminal.integrated.fontFamily": "Fira Code",
+    "editor.fontFamily": "Fira Code",
     "files.autoSave": "afterDelay"
 }
