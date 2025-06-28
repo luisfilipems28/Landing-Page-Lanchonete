@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap'); /*Oswald*/
+
+:root {
+    --oswald: 'Oswald', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    --default: Arial, Helvetica, sans-serif;
+}
