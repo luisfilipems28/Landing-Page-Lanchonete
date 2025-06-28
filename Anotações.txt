@@ -1,0 +1,2 @@
+Anotações:
+1. não esquecer quando estiver rolando o projeto, colocar o '.vscode' no '.gitignore'.
