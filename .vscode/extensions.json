@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "formulahendry.auto-rename-tag",
+        "naumovs.color-highlight",
+        "usernamehw.errorlens",
+        "ritwickdey.LiveServer",
+        "miramac.vscode-exec-node",
+        "MS-CEINTL.vscode-language-pack-pt-BR"
+    ]
+}
